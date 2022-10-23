@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>beejer | search anything</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="logo.png" rel="shortcut icon" type="image/x-icon">
+
+</head>
+
+<body>
+    <h1 style="position: absolute; left: 45%; top: 100px; transform: translate(-50%-50%);">beejer</h1>
+    <div style="position: absolute; left: 50%; top: 200px; transform: translate(-50%, -50%); display: flex; align content: center;">
+    <input type="text" id="search" style="outline: none; border: 1px solid lightgrey; width: 36vmax;height: 35px; border-radius: 20px; padding-left: 20px;">
+    <button id="search" style="font-size: 20px; background: rgb(250, 250, 252); border-radius: 20px; cursor: pointer;">Search</button>
+
+    </div>
+
+<script src="java.js"></script>
+
+    
+</body>
+</html>
